@@ -17,6 +17,7 @@ public class Main {
 
 		/*
 		Challenge 2:
+			Create a 2nd method called calculate HighScorePosition
 			It should be sent one argument only, the player score
 			it should return an int
 			the return data should be:
@@ -41,5 +42,7 @@ public class Main {
 			return -1; //shows as an error
 		}
 	}
+
+	public static void displayedHighScorePosition
 
 }
